@@ -1,0 +1,11 @@
+,Lecturer ID,Lecturer Name, Status,Department,Maximum Units,Time Preference,Courses
+0,LEC001,Adewale Johnson,Full Staff,Mathematical Sciences,18,Morning,"CSC101, CSC202"
+1,LEC002,Oluwatoyin Adeyemi,On Sabbatical,Mathematical Sciences,21,Afternoon,"MAT101, MAT202"
+2,LEC003,Kunle Olaniyan,Full Staff,Physics,15,-,"PHY101, PHY202"
+3,LEC004,Yetunde Oladele,Adjunct,English,18,Morning,"ENG101, ENG202"
+4,LEC005,Olufemi Ojo,Retired,Chemical Sciences,12,Afternoon,"CHE101, CHE202"
+5,LEC006,Abiodun Adebayo,Full Staff,Economics,20,Afternoon,"ECO101, ECO202"
+6,LEC007,Toyin Afolabi,Full Staff,History,16,Morning,"HIS101, HIS202"
+7,LEC008,Opeyemi Owolabi,Adjunct,Political Science,19,Afternoon,"POL101, POL202"
+8,LEC009,Adewale Adeyemi,Adjunct,Biological Sciences,17,Morning,"MIC101, MIC202"
+9,LEC010,Oluwatoyin Olaniyan,Retired,Law,14,Afternoon,"LAW101, LAW202"

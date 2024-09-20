@@ -1,0 +1,31 @@
+,Course Code,Course Title,Course Weight,Course Departments,Required Equipment,Prohibited Venues,Ideal Venues,Lecturer,Students Registered,Number of Students
+0,CSC101,Introduction to Computer Science,3,Computer Science,Projector & Air Conditioning,"Lecture Hall 1, Lecture Hall 2","Computer Lab 1, Computer Lab 2",LEC001,"STD001, STD002, STD003, ...",100
+1,MAT101,Calculus I,4,Mathematics,,"Lecture Hall 3, Lecture Hall 4","Mathematics Lab 1, Mathematics Lab 2",LEC002,"STD004, STD005, STD006, ...",80
+2,PHY101,General Physics,3,Physics,Projector & Air Conditioning,"Lecture Hall 5, Lecture Hall 6","Physics Lab 1, Physics Lab 2",LEC003,"STD007, STD008, STD009, ...",90
+3,ENG101,English Composition,3,English,,"Lecture Hall 7, Lecture Hall 8","English Language Lab 1, English Language Lab 2",LEC004,"STD010, STD011, STD012, ...",120
+4,CHE101,General Chemistry,4,Chemistry,Projector,"Lecture Hall 9, Lecture Hall 10","Chemistry Lab 1, Chemistry Lab 2",LEC005,"STD013, STD014, STD015, ...",75
+5,ECO101,Principles of Economics,3,Economics,Projector,"Lecture Hall 11, Lecture Hall 12","Economics Lab 1, Economics Lab 2",LEC006,"STD016, STD017, STD018, ...",110
+6,HIS101,World History,3,History,Air Conditioning,"Lecture Hall 13, Lecture Hall 14","History Lab 1, History Lab 2",LEC007,"STD019, STD020, STD021, ...",105
+7,POL101,Introduction to Political Science,3,Political Science,Projector,"Lecture Hall 15, Lecture Hall 16","Political Science Lab 1, Political Science Lab 2",LEC008,"STD022, STD023, STD024, ...",95
+8,MIC101,General Microbiology,4,Microbiology,Projector & Air Conditioning,"Lecture Hall 17, Lecture Hall 18","Microbiology Lab 1, Microbiology Lab 2",LEC009,"STD025, STD026, STD027, ...",85
+9,LAW101,Introduction to Law,3,Law,Air Conditioning,"Lecture Hall 19, Lecture Hall 20","Law Library 1, Law Library 2",LEC010,"STD028, STD029, STD030, ...",130
+10,CSC202,Data Structures and Algorithms,4,Computer Science,Projector & Air Conditioning,"Lecture Hall 1, Lecture Hall 2","Computer Lab 1, Computer Lab 2",LEC001,"STD031, STD032, STD033, ...",90
+11,MAT202,Calculus II,4,Mathematics,,"Lecture Hall 3, Lecture Hall 4","Mathematics Lab 1, Mathematics Lab 2",LEC002,"STD034, STD035, STD036, ...",75
+12,PHY202,Modern Physics,3,Physics,Projector & Air Conditioning,"Lecture Hall 5, Lecture Hall 6","Physics Lab 1, Physics Lab 2",LEC003,"STD037, STD038, STD039, ...",80
+13,ENG202,Technical Writing,3,English,,"Lecture Hall 7, Lecture Hall 8","English Language Lab 1, English Language Lab 2",LEC004,"STD040, STD041, STD042, ...",110
+14,CHE202,Organic Chemistry,4,Chemistry,Projector,"Lecture Hall 9, Lecture Hall 10","Chemistry Lab 1, Chemistry Lab 2",LEC005,"STD043, STD044, STD045, ...",70
+15,ECO202,Microeconomics,3,Economics,Projector,"Lecture Hall 11, Lecture Hall 12","Economics Lab 1, Economics Lab 2",LEC006,"STD046, STD047, STD048, ...",100
+16,HIS202,African History,3,History,Air Conditioning,"Lecture Hall 13, Lecture Hall 14","History Lab 1, History Lab 2",LEC007,"STD049, STD050, STD051, ...",95
+17,POL202,Comparative Politics,3,Political Science,Projector,"Lecture Hall 15, Lecture Hall 16","Political Science Lab 1, Political Science Lab 2",LEC008,"STD052, STD053, STD054, ...",80
+18,MIC202,Genetics,4,Microbiology,Projector & Air Conditioning,"Lecture Hall 17, Lecture Hall 18","Microbiology Lab 1, Microbiology Lab 2",LEC009,"STD055, STD056, STD057, ...",75
+19,LAW202,Constitutional Law,3,Law,Air Conditioning,"Lecture Hall 19, Lecture Hall 20","Law Library 1, Law Library 2",LEC010,"STD058, STD059, STD060, ...",120
+20,CSC301,Operating Systems,4,Computer Science,Projector & Air Conditioning,"Lecture Hall 1, Lecture Hall 2","Computer Lab 1, Computer Lab 2",LEC001,"STD061, STD062, STD063, ...",80
+21,MAT301,Linear Algebra,4,Mathematics,,"Lecture Hall 3, Lecture Hall 4","Mathematics Lab 1, Mathematics Lab 2",LEC002,"STD064, STD065, STD066, ...",70
+22,PHY301,Electricity and Magnetism,3,Physics,Projector & Air Conditioning,"Lecture Hall 5, Lecture Hall 6","Physics Lab 1, Physics Lab 2",LEC003,"STD067, STD068, STD069, ...",75
+23,ENG301,Business Writing,3,English,,"Lecture Hall 7, Lecture Hall 8","English Language Lab 1, English Language Lab 2",LEC004,"STD070, STD071, STD072, ...",100
+24,CHE301,Analytical Chemistry,4,Chemistry,Projector,"Lecture Hall 9, Lecture Hall 10","Chemistry Lab 1, Chemistry Lab 2",LEC005,"STD073, STD074, STD075, ...",65
+25,ECO301,Econometrics,3,Economics,Projector,"Lecture Hall 11, Lecture Hall 12","Economics Lab 1, Economics Lab 2",LEC006,"STD076, STD077, STD078, ...",90
+26,HIS301,Modern European History,3,History,Air Conditioning,"Lecture Hall 13, Lecture Hall 14","History Lab 1, History Lab 2",LEC007,"STD079, STD080, STD081, ...",85
+27,POL301,International Relations,3,Political Science,Projector,"Lecture Hall 15, Lecture Hall 16","Political Science Lab 1, Political Science Lab 2",LEC008,"STD082, STD083, STD084, ...",75
+28,MIC301,Immunology,4,Microbiology,Projector & Air Conditioning,"Lecture Hall 17, Lecture Hall 18","Microbiology Lab 1, Microbiology Lab 2",LEC009,"STD085, STD086, STD087, ...",70
+29,LAW301,Property Law,3,Law,Air Conditioning,"Lecture Hall 19, Lecture Hall 20","Law Library 1, Law Library 2",LEC010,"STD088, STD089, STD090, ...",110
