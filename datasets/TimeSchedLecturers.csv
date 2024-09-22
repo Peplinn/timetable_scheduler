@@ -1,4 +1,4 @@
-,Lecturer ID,Lecturer Name, Status,Department,Maximum Units,Time Preference,Courses
+,Lecturer ID,Lecturer Name,Status,Department,Maximum Units,Time Preference,Courses
 0,LEC001,Adewale Johnson,Full Staff,Mathematical Sciences,18,Morning,"CSC101, CSC202"
 1,LEC002,Oluwatoyin Adeyemi,On Sabbatical,Mathematical Sciences,21,Afternoon,"MAT101, MAT202"
 2,LEC003,Kunle Olaniyan,Full Staff,Physics,15,-,"PHY101, PHY202"
